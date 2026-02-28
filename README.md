@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivkanya Bhosale</h1>
 <h3 align="center">💻 Full Stack Web Developer | Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhosaleshivkanya&label=Profile%20views&color=ff69b4&style=flat" />
-</p>
 
 ---
 
@@ -19,7 +16,7 @@ Passionate about solving real-world problems through technology.
 
 ## 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,sql" />
 </p>
 
 ## ⚙️ Backend & APIs

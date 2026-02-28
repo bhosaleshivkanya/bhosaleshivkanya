@@ -48,7 +48,7 @@ Passionate about solving real-world problems through technology.
 ## 📫 Connect With Me
 
 🔗 GitHub: https://github.com/bhosaleshivkanya  
-🔗 LinkedIn: (add your linkedin)
+🔗 LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bk3V9xADGSYqXZCqBrO99Sw%3D%3D
 
 ---
 

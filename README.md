@@ -36,14 +36,8 @@ Passionate about solving real-world problems through technology.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhosaleshivkanya&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhosaleshivkanya&layout=compact&theme=radical"/>
-</p>
 
----
 
 ## 📫 Connect With Me
 
